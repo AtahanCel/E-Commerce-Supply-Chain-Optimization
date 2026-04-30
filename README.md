@@ -10,8 +10,7 @@ Python ile makine öğrenmesi modelleri kurularak gelecek ayın sipariş talebi 
 * **Makine Öğrenmesi (Tahmin):** Scikit-Learn (Linear Regression)
 * **Veri Görselleştirme & İş Zekası:** Power BI (DAX, Data Modeling)
 
-## 📊 Power BI Dashboard Görünümü
-*(Buraya yüklediğin dashboard resminin linki gelecek. Şimdilik böyle kalsın, sonra düzeltiriz)*
+## 📊 Power BI Dashboard Görünüm
 ![Dashboard](dashboard_ss.png)
 
 ## 🚀 Proje Adımları ve Mühendislik Yaklaşımı
